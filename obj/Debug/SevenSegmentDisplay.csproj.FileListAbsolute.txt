@@ -1,5 +1,4 @@
 C:\Users\Kuba\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\SevenSegmentDisplay.csprojAssemblyReference.cache
-C:\Users\Kuba\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\SevenSegmentDisplay.csproj.CoreCompileInputs.cache
 C:\Users\Kuba\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\SevenSegment.dll
 C:\Users\Kuba\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\SevenSegment.pdb
 C:\Users\Kuba\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\SevenSegment.dll
@@ -104,4 +103,4 @@ C:\Users\Kuba\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\FormComponent.d
 C:\Users\Kuba\source\repos\ClassLibrary2\ClassLibrary2\bin\Debug\FormComponent.pdb
 C:\Users\Kuba\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\SevenSegmentDisplay.csproj.GenerateResource.cache
 C:\Users\Kuba\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\SevenSegmentDisplay.csproj.CopyComplete
-C:\Users\Kuba\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\SevenSegment.CustomControls.SevenSegment.resources
+C:\Users\Kuba\source\repos\ClassLibrary2\ClassLibrary2\obj\Debug\SevenSegment.SevenSegment.resources
